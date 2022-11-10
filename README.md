@@ -15,4 +15,4 @@ to run
 scripts/deliver.sh
 
 this is a uild trigger test
-hi
+hi 12
